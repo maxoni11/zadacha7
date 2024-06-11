@@ -7,6 +7,7 @@ using namespace std;
 
 int main() {
     setlocale(LC_ALL, "RUS");
+    //lklklk
     Refrigerator fridge("Супер Холодильник ", "Инструкция пользования Супер Холодильника");
 
     fridge.turnOn();
